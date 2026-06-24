@@ -1,0 +1,8 @@
+venv/
+__pycahe__/
+*.pyc 
+
+node_modules/
+.env
+
+.vscode/
