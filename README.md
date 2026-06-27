@@ -72,3 +72,18 @@ npm install
 npm run dev
 ```
 *L'application web client est accessible en temps réel à l'adresse suivante : `http://localhost:5173/`.*
+
+## 📊 Captures d'Écran et Validation du Système
+
+### 1. Interface de Programmation d'Application (API FastAPI)
+![Documentation de l'API REST](assets/api-documentation.png)
+
+### 2. Interface Utilisateur (Analyse Individuelle de CV)
+![Tableau de bord d'analyse de CV](assets/dashboard-home.png)
+
+### 3. Tableau de Bord Centralisé (Indexation Globale)
+![Liste récapitulative des candidats](assets/candidates-list.png)
+
+### 4. Persistance Relationnelle des Données (pgAdmin 4)
+![Stockage relationnel PostgreSQL](assets/database-storage.png)
+
