@@ -85,5 +85,5 @@ npm run dev
 ![Liste récapitulative des candidats](assets/candidates-list.png)
 
 ### 4. Persistance Relationnelle des Données (pgAdmin 4)
-![Stockage relationnel PostgreSQL](assets/database-storage.png)
+![Stockage relationnel PostgreSQL](assets/database-storage.PNG)
 
