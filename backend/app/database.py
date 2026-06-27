@@ -2,7 +2,7 @@ from sqlalchemy import create_engine
 from sqlalchemy.orm import declarative_base, sessionmaker
 
 # URL de connexion à la base de données PostgreSQL
-SQLALCHEMY_DATABASE_URL = "postgresql://postgres:password@localhost:5432/ai_recruiter_db"
+SQLALCHEMY_DATABASE_URL = "postgresql://postgres:votre_motdepass@localhost:5432/ai_recruiter_db"
 
 # Création du moteur de liaison avec la base de données
 engine = create_engine(SQLALCHEMY_DATABASE_URL)
